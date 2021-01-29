@@ -1,0 +1,44 @@
+{
+  "background": "https://img3.goodfon.com/wallpaper/nbig/6/fd/ss-counter-strike-cs-dust-2.jpg",
+  "title": "Quiz CsGo do Pnt",
+  "description": "Teste os seus conhecimentos sobre Counter Strike Go e vamos ver se você é bom mesmo nesse nesse assunto!",
+  "questions": [
+    {
+      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "title": "Qual o nome do principal campeonato de csgo, na atualidade?",
+      "description": "Só pra aquecer, ta fácil demais..",
+      "answer": 2,
+      "alternatives": [
+        "ESL Pro League",
+        "DreamHack Masters",
+        "Major",
+        "BLAST Pro Serie",
+        "Intel Extreme Masters"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "title": "Como fazer um background gradiente com css?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+         "background: linear-gradient(#e66465, #9198e5);",
+         "background: gradient(#e66465, #9198e5);"
+      ]
+    }
+  ],
+  "external": [
+    ""
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#ff9800",
+      "secondary": "#80cbc4",
+      "mainBg": "#171B35",
+      "contrastText": "#FFFFFF",
+      "wrong": "#ff1744",
+      "success": "#76ff03"
+    },
+    "borderRadius": "4px"
+  }
+}
